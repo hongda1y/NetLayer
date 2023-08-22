@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'NetLayer_Example' do
+  pod 'NetLayer', :path => '../'
+
+  target 'NetLayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
