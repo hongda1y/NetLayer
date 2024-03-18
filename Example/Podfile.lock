@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (5.7.1)
+  - NetLayer (0.1.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - NetLayer (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  NetLayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  NetLayer: 36d75baa0820386d77a91bb1c1454dc18ac9973a
+
+PODFILE CHECKSUM: edbe2bf898990c8890b747f39d6899500bcd3826
+
+COCOAPODS: 1.12.1

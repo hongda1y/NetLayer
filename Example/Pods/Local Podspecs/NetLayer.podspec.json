@@ -1,0 +1,29 @@
+{
+  "name": "NetLayer",
+  "version": "0.1.0",
+  "summary": "A short description of NetLayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hongda1y/NetLayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hongda1y": "daly.hong@gbstech.com.kh"
+  },
+  "source": {
+    "git": "https://github.com/hongda1y/NetLayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "Sources/**/*",
+  "swift_versions": "5.0",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
